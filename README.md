@@ -5,3 +5,4 @@ Imp content:
 2. https://www.udemy.com/course/machinelearning/learn/lecture/19698234#questions/11474712
 3. https://scikit-learn.org/stable/modules/model_evaluation.html
 4. https://www.udemy.com/course/machinelearning/learn/lecture/6403742#overview
+5. https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
