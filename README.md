@@ -16,3 +16,5 @@ Imp content:
 2. https://www.udemy.com/course/machinelearning/learn/lecture/19754846#overview
 # Bonus
 1. https://www.udemy.com/course/machinelearning/learn/lecture/20246006#overview
+# Reducing Dimensions
+1. https://www.udemy.com/course/machinelearning/learn/lecture/6249412#overview
