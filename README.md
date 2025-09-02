@@ -20,3 +20,4 @@ Imp content:
 1. https://www.udemy.com/course/machinelearning/learn/lecture/6249412#overview
 # Bonus Lecture
 1. https://www.udemy.com/course/machinelearning/learn/lecture/41340046#overview
+2. https://www.udemy.com/course/artificial-intelligence-az/learn/lecture/49184371#overview
